@@ -1,1 +1,3 @@
 Just a test of ls-files
+
+Another test to be performed
